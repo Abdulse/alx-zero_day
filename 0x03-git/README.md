@@ -1,1 +1,1 @@
-**This file is mandatory in all ALX School projects**
+**How to be up to date in git**
